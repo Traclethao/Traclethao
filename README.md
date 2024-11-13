@@ -8,15 +8,15 @@ My name is Thao. I'm 23 years old. I just graduated from university with a degre
   Linked: https://www.linkedin.com/feed/ 
 
 ## My Skills
-  SQL: data manipulation, data mining
+  **SQL**: data manipulation, data mining
   
-  Power BI: data visualization
+  **Power BI**: data visualization
   
-  Python: data wrangling
+  **Python**: data wrangling
   
-  Excel 
+  **Excel** 
   
-  Have knowledge in Machine Learning
+  Have knowledge in **Machine Learning**
 # My projects 
   ### 1. Explore Ecommerce Dataset (SQL) 
 https://github.com/Traclethao/Explore-Ecommerce-Dataset 
