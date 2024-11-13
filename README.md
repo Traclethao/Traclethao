@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC University of technology and Education with a degree in industrial management. But I want to be a data analyst. You can contact me via:
+My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC University of technology and Education with a degree in Industrial Management. My industry trains 4 domains: production, product quality, human resources and marketing. I want to be a data analyst. You can contact me via:
 
   Phone: 0944 470 878
   
