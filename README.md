@@ -2,7 +2,9 @@
 My name is Thao. You can call me Kris. I'm 23 years old. I just graduated from university with a degree in industrial management. But I want to be a data analyst. You can contact me via:
 
   Phone: 0944 470 878
+  
   Email: Traclethao291@gmail.com 
+  
   Linked: https://www.linkedin.com/feed/ 
   
 # My projects 
