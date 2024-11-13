@@ -17,7 +17,7 @@ My name is Thao. I'm 23 years old. I just graduated from university with a degre
   **Excel** 
   
   Have knowledge in **Machine Learning**
-# My projects 
+## My projects 
   ### 1. Explore Ecommerce Dataset (SQL) 
 https://github.com/Traclethao/Explore-Ecommerce-Dataset 
 
