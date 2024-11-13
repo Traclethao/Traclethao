@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Thao. I'm 23 years old. I just graduated from university with a degree in industrial management. But I want to be a data analyst. You can contact me via:
+My name is Trac Le Thao. I'm 23 years old. I just graduated from university with a degree in industrial management. But I want to be a data analyst. You can contact me via:
 
   Phone: 0944 470 878
   
