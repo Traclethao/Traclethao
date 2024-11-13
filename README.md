@@ -9,9 +9,13 @@ My name is Thao. You can call me Kris. I'm 23 years old. I just graduated from u
 
 ## My Skills
   SQL: data manipulation, data mining
+  
   Power BI: data visualization
+  
   Python: data wrangling
+  
   Excel 
+  
   Have knowledge in Machine Learning
 # My projects 
   ### 1. Explore Ecommerce Dataset (SQL) 
