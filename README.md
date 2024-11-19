@@ -21,7 +21,7 @@ My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC Universi
   ### 1. Explore Ecommerce Dataset (SQL) 
 https://github.com/Traclethao/Explore-Ecommerce-Dataset 
 
-  ### 2. Adventure Works Analysis (Power BI)
+  ### 2. Vendor Analysis For Purchasing Department (Power BI)
 https://github.com/Traclethao/Adventure-Works-Analysis
 
   ### 3. Customer Segmentation In Marketing (Python) 
