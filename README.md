@@ -10,7 +10,7 @@ My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC Universi
 ## My Skills
   **SQL**: data manipulation, data mining
   
-  **Power BI**: data visualization
+  **Power BI**: data visualization, data modeling
   
   **Python**: data wrangling
   
@@ -24,7 +24,7 @@ https://github.com/Traclethao/Explore-Ecommerce-Dataset
   ### 2. Adventure Works Analysis (Power BI)
 https://github.com/Traclethao/Adventure-Works-Analysis
 
-  ### 3. RFM Analyst (Python) 
+  ### 3. Customer Segmentation In Marketing (Python) 
 https://github.com/Traclethao/RFM-Analysis
 
   ### 4. Churned Users Analysis (Machine Learning) 
