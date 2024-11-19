@@ -27,7 +27,7 @@ https://github.com/Traclethao/Adventure-Works-Analysis
   ### 3. Customer Segmentation In Marketing (Python) 
 https://github.com/Traclethao/RFM-Analysis
 
-  ### 4. Churned Users Analysis (Machine Learning) 
+  ### 4. Predicting And Segmenting Churned Users In Marketing (Machine Learning) 
 https://github.com/Traclethao/Churned-Users-Analysis 
 
 <!--
