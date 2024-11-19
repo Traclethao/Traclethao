@@ -18,7 +18,7 @@ My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC Universi
   
   Have knowledge in **Machine Learning**
 ## My projects 
-  ### 1. Explore Ecommerce Dataset (SQL) 
+  ### 1. Website Performance Analysis In Ecommerce  (SQL) 
 https://github.com/Traclethao/Explore-Ecommerce-Dataset 
 
   ### 2. Vendor Analysis For Purchasing Department (Power BI)
