@@ -21,7 +21,7 @@ My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC Universi
   ### 1. Website Performance Analysis In Ecommerce  (SQL) 
 https://github.com/Traclethao/Explore-Ecommerce-Dataset 
 
-  ### 2. Vendor Analysis For Purchasing Department (Power BI)
+  ### 2. Vendor Performance Analysis For Purchasing Department (Power BI)
 https://github.com/Traclethao/Adventure-Works-Analysis
 
   ### 3. Customer Segmentation In Marketing (Python) 
