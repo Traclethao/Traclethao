@@ -18,17 +18,18 @@ My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC Universi
   
   Have knowledge in **Machine Learning**
 ## My projects 
-  ### 1. Website Performance Analysis In Ecommerce  (SQL) 
-https://github.com/Traclethao/Explore-Ecommerce-Dataset 
+  ### 1. Customer Segmentation In Marketing (Python) 
+https://github.com/Traclethao/RFM-Analysis
 
   ### 2. Vendor Performance Analysis For Purchasing Department (Power BI)
 https://github.com/Traclethao/Adventure-Works-Analysis
 
-  ### 3. Customer Segmentation In Marketing (Python) 
-https://github.com/Traclethao/RFM-Analysis
-
-  ### 4. Predicting And Segmenting Churned Users In Marketing (Machine Learning) 
+  ### 3. Predicting And Segmenting Churned Users In Marketing (Machine Learning) 
 https://github.com/Traclethao/Churned-Users-Analysis 
+
+  ### 4. Website Performance Analysis In Ecommerce  (SQL) 
+https://github.com/Traclethao/Explore-Ecommerce-Dataset 
+
 
 <!--
 **Traclethao/Traclethao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
