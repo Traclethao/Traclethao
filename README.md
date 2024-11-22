@@ -5,7 +5,7 @@ My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC Universi
   
   Email: Traclethao291@gmail.com 
   
-  Linked: https://www.linkedin.com/feed/ 
+  Linked: https://www.linkedin.com/in/traclethao/
 
 ## My Skills
   **SQL**: data manipulation, data mining
