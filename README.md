@@ -18,11 +18,11 @@ My name is Trac Le Thao. I was born in 2001. I just graduated from HCMC Universi
   
   Have knowledge in **Machine Learning**
 ## My projects 
-  ### 1. Customer Segmentation In Marketing (Python) 
-https://github.com/Traclethao/RFM-Analysis
-
-  ### 2. Vendor Performance Analysis For Purchasing Department (Power BI)
+  ### 1. Vendor Performance Analysis For Purchasing Department (Power BI)
 https://github.com/Traclethao/Adventure-Works-Analysis
+
+  ### 2. Customer Segmentation In Marketing (Python) 
+https://github.com/Traclethao/RFM-Analysis
 
   ### 3. Predicting And Segmenting Churned Users In Marketing (Machine Learning) 
 https://github.com/Traclethao/Churned-Users-Analysis 
