@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Trac Le Thao. I was born in 2001. I just graduated from HCMC University of technology and Education with a degree in Industrial Management. My industry trains 4 domains: production, product quality, human resources and marketing. I want to be a data analyst. You can contact me via:
+I am Trac Le Thao. I was born in 2001. I just graduated from HCMC University of Technology and Education with a bachelor of Industrial Management. You can contact me via:
 
   Phone: 0944 470 878
   
@@ -8,15 +8,17 @@ I am Trac Le Thao. I was born in 2001. I just graduated from HCMC University of 
   Linked: https://www.linkedin.com/in/traclethao/
 
 ## My Skills
+
+  **Excel** 
+
   **SQL**: data manipulation, data mining
   
   **Power BI**: data visualization, data modeling
   
   **Python**: data wrangling
   
-  **Excel** 
-  
   Have knowledge in **Machine Learning**
+  
 ## My projects 
   ### 1. Production Efficiency Dashboard For Manufacturing Department (Power BI)
 https://github.com/Traclethao/POWER-BI-Production-Efficiency-Dashboard-For-Manufacturing-Department
@@ -24,14 +26,15 @@ https://github.com/Traclethao/POWER-BI-Production-Efficiency-Dashboard-For-Manuf
   ### 2. Vendor Performance Analysis For Purchasing Department (Power BI)
 https://github.com/Traclethao/Adventure-Works-Analysis
 
-  ### 3. Customer Segmentation In Marketing (Python) 
-https://github.com/Traclethao/RFM-Analysis
+  ### 3. Website Performance Analysis In Ecommerce  (SQL) 
+https://github.com/Traclethao/Explore-Ecommerce-Dataset 
 
   ### 4. Predicting And Segmenting Churned Users In Marketing (Machine Learning) 
 https://github.com/Traclethao/Churned-Users-Analysis 
 
-  ### 5. Website Performance Analysis In Ecommerce  (SQL) 
-https://github.com/Traclethao/Explore-Ecommerce-Dataset 
+
+  ### 5. Customer Segmentation In Marketing (Python) 
+https://github.com/Traclethao/RFM-Analysis
 
 
 <!--
