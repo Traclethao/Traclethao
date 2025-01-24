@@ -17,7 +17,7 @@ I am Trac Le Thao. I was born in 2001. I just graduated from HCMC University of 
   
   **Python**: data wrangling
   
-  Have knowledge in **Machine Learning**
+  Have knowledge in **Enterprise Resource Planning (ERP)**
   
 ## My projects 
   ### 1. Production Efficiency Dashboard For Manufacturing Department (Power BI)
